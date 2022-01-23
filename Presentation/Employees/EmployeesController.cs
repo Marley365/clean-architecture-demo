@@ -1,5 +1,4 @@
-﻿using System;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using CleanArchitecture.Application.Employees.Queries.GetEmployeesList;
 
 namespace CleanArchitecture.Presentation.Employees

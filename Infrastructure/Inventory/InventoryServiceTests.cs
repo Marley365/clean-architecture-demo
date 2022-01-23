@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using AutoMoq;
+﻿using AutoMoq;
 using CleanArchitecture.Infrastructure.Network;
 using Moq;
 using NUnit.Framework;

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using CleanArchitecture.Application.Sales.Queries.GetSalesList;
 using CleanArchitecture.Specification.Common;
