@@ -1,5 +1,4 @@
-﻿using System;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using CleanArchitecture.Application.Customers.Queries.GetCustomerList;
 
 namespace CleanArchitecture.Presentation.Customers

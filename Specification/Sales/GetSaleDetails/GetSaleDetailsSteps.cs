@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using CleanArchitecture.Application.Sales.Queries.GetSaleDetail;
+﻿using CleanArchitecture.Application.Sales.Queries.GetSaleDetail;
 using CleanArchitecture.Specification.Common;
 using NUnit.Framework;
 using TechTalk.SpecFlow;
